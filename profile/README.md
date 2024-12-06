@@ -15,4 +15,4 @@ Poland<br>
 E-mail: office@uni.opole.pl
 
 #### Related organizations:<br>
-Institute of Computer Science [GitHub](https://github.com/UniOpole-CS-Test/) [Website](https://informatyka.uni.opole.pl/)
+Institute of Computer Science [GitHub](https://github.com/UniOpole-CS-Test/) [Website](https://ii.wmfi.uni.opole.pl/)
